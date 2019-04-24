@@ -2,7 +2,7 @@
 Team Repository
 
 Check Out Adam's Page! ---->
-
+https://s3-us-west-2.amazonaws.com/newbucket311/Assignment2/gallery.html
 
 Check Out Daniel's Page! ---->
 
